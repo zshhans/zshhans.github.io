@@ -6,7 +6,8 @@ layout: default
     <h1 class="post-title">
       {% if site.title == 'blank' %}
         <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
-        {{ site.last_name }} ({{ site.chn_name }})
+        {{ site.last_name }}
+        ({{ site.chn_name }})
       {% else %}
         {{ site.title }}
       {% endif %}
@@ -29,7 +30,7 @@ layout: default
       30vw, 30vw"{% endcapture %}
           {%
             include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
-            cache_bust=true
+            cache_bust=true width="50%"
           %}
         {% endif %}
         {% if page.profile.more_info %}
