@@ -6,7 +6,7 @@ subtitle: PhD Candidate, Computer Science and Engineering, HKUST
 
 profile:
   align: right
-  image: pic.jpg
+  image: profile.png
   image_circular: true # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
