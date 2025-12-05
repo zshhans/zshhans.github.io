@@ -27,8 +27,12 @@ social: true # includes social icons at the bottom of the page
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an PhD candidate in Computer Science and Engineering at the CSE Department in the Hong Kong University of Science and Technology (HKUST), under the supervision of Prof. Sheung-Han Gary Chan. I have two Master's degree. I obtained my Master of Science degree (in Information Technology) from HKUST. Prior to that, I obtained my Master of Engineering degree (by research, in Geodesy and Surveying Engineering) from Wuhan University (WHU) under the supervision of Prof. Caijun Xu. I received my Bachelor's degree (in Geodesy and Geomatics Engineering) from WHU.
+
+My research focus on the analytics and modeling of sequential and time series data, for both scientific purposes and real-world applications.
+
+<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
