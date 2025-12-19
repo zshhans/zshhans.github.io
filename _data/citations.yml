@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-15'
+  last_updated: '2025-12-19'
 papers:
   p-w2d-QAAAAJ:2osOgNQ5qMEC:
     citations: 7
@@ -38,10 +38,10 @@ papers:
     title: 'vContact: Private WiFi-based IoT contact tracing with virus lifespan'
     year: '2021'
   p-w2d-QAAAAJ:ufrVoPGSRksC:
-    citations: 62
+    citations: 63
     title: A multi-scale decomposition mlp-mixer for time series analysis
     year: '2024'
   p-w2d-QAAAAJ:zYLM7Y9cAGgC:
-    citations: 55
+    citations: 56
     title: A lightweight and accurate spatial-temporal transformer for traffic forecasting
     year: '2022'
