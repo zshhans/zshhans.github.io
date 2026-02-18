@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-13'
+  last_updated: '2026-02-18'
 papers:
   p-w2d-QAAAAJ:2osOgNQ5qMEC:
     citations: 7
@@ -30,7 +30,7 @@ papers:
     title: Focal mechanisms of the 2016 central Italy earthquake sequence inferred from high-rate GPS and broadband seismic waveforms
     year: '2018'
   p-w2d-QAAAAJ:qjMakFHDy7sC:
-    citations: 32
+    citations: 33
     title: A data-driven spatial-temporal graph neural network for docked bike prediction
     year: '2022'
   p-w2d-QAAAAJ:u5HHmVD_uO8C:
@@ -38,10 +38,10 @@ papers:
     title: 'vContact: Private WiFi-based IoT contact tracing with virus lifespan'
     year: '2021'
   p-w2d-QAAAAJ:ufrVoPGSRksC:
-    citations: 66
+    citations: 68
     title: A multi-scale decomposition mlp-mixer for time series analysis
     year: '2024'
   p-w2d-QAAAAJ:zYLM7Y9cAGgC:
-    citations: 58
+    citations: 59
     title: A lightweight and accurate spatial-temporal transformer for traffic forecasting
     year: '2022'
