@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-23'
+  last_updated: '2026-02-25'
 papers:
   p-w2d-QAAAAJ:2osOgNQ5qMEC:
     citations: 7
@@ -34,7 +34,7 @@ papers:
     title: A data-driven spatial-temporal graph neural network for docked bike prediction
     year: '2022'
   p-w2d-QAAAAJ:u5HHmVD_uO8C:
-    citations: 36
+    citations: 37
     title: 'vContact: Private WiFi-based IoT contact tracing with virus lifespan'
     year: '2021'
   p-w2d-QAAAAJ:ufrVoPGSRksC:
