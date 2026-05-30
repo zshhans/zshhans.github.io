@@ -2,9 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: > 
-  <p>Assistant Professor (starting Sept. 2026), BNBU</p>
-  <p>PhD in Computer Science and Engineering, HKUST</p>
+subtitle: Assistant Professor (starting Sept. 2026), BNBU
 
 profile:
   align: right
