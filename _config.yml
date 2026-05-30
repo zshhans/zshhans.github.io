@@ -142,15 +142,15 @@ newsletter:
 # Collections
 # -----------------------------------------------------------------------------
 
-collections:
-  # books:
-  #   output: true
-  # news:
-  #   defaults:
-  #     layout: post
-  #   output: true
-  # projects:
-  #   output: true
+# collections:
+#   books:
+#     output: true
+#   news:
+#     defaults:
+#       layout: post
+#     output: true
+#   projects:
+#     output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -201,6 +201,9 @@ exclude:
   - _pages/profiles.md
   - _pages/cv.md
   - _pages/teaching.md
+  - _pages/books.md
+  - _pages/news.md
+  - _books/
 keep_files:
   - CNAME
   - .nojekyll
