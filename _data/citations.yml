@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-18'
+  last_updated: '2026-06-03'
 papers:
   p-w2d-QAAAAJ:2osOgNQ5qMEC:
     citations: 7
@@ -10,19 +10,19 @@ papers:
     title: 'M-Impute: Mask-guided Representation Learning for Missing Value Imputation'
     year: '2024'
   p-w2d-QAAAAJ:IjCSPb-OGe4C:
-    citations: 12
+    citations: 13
     title: 'Dypa: a machine learning dyslexia prescreening mobile application for chinese children'
     year: '2023'
   p-w2d-QAAAAJ:UeHWp8X0CEIC:
-    citations: 23
+    citations: 24
     title: A tree-based structure-aware transformer decoder for image-to-markup generation
     year: '2022'
   p-w2d-QAAAAJ:W7OEmFMy1HYC:
-    citations: 0
+    citations: 1
     title: 'TAMI: Taming Heterogeneity in Temporal Interactions for Temporal Graph Link Prediction'
     year: '2025'
   p-w2d-QAAAAJ:Y0pCki6q_DkC:
-    citations: 1
+    citations: 3
     title: 'MTM: A Multi-Scale Token Mixing Transformer for Irregular Multivariate Time Series Classification'
     year: '2025'
   p-w2d-QAAAAJ:d1gkVwhDpl0C:
@@ -38,10 +38,10 @@ papers:
     title: 'vContact: Private WiFi-based IoT contact tracing with virus lifespan'
     year: '2021'
   p-w2d-QAAAAJ:ufrVoPGSRksC:
-    citations: 90
+    citations: 93
     title: A multi-scale decomposition mlp-mixer for time series analysis
     year: '2024'
   p-w2d-QAAAAJ:zYLM7Y9cAGgC:
-    citations: 66
+    citations: 67
     title: A lightweight and accurate spatial-temporal transformer for traffic forecasting
     year: '2022'
