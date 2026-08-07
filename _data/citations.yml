@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-08-07'
 papers:
   p-w2d-QAAAAJ:2osOgNQ5qMEC:
     citations: 7
@@ -10,19 +10,19 @@ papers:
     title: 'M-Impute: Mask-guided Representation Learning for Missing Value Imputation'
     year: '2024'
   p-w2d-QAAAAJ:IjCSPb-OGe4C:
-    citations: 14
+    citations: 15
     title: 'Dypa: a machine learning dyslexia prescreening mobile application for chinese children'
     year: '2023'
   p-w2d-QAAAAJ:UeHWp8X0CEIC:
-    citations: 25
+    citations: 27
     title: A tree-based structure-aware transformer decoder for image-to-markup generation
     year: '2022'
   p-w2d-QAAAAJ:W7OEmFMy1HYC:
-    citations: 1
+    citations: 3
     title: 'TAMI: Taming Heterogeneity in Temporal Interactions for Temporal Graph Link Prediction'
     year: '2025'
   p-w2d-QAAAAJ:Y0pCki6q_DkC:
-    citations: 5
+    citations: 6
     title: 'MTM: A Multi-Scale Token Mixing Transformer for Irregular Multivariate Time Series Classification'
     year: '2025'
   p-w2d-QAAAAJ:d1gkVwhDpl0C:
@@ -30,7 +30,7 @@ papers:
     title: Focal mechanisms of the 2016 central Italy earthquake sequence inferred from high-rate GPS and broadband seismic waveforms
     year: '2018'
   p-w2d-QAAAAJ:qjMakFHDy7sC:
-    citations: 38
+    citations: 39
     title: A data-driven spatial-temporal graph neural network for docked bike prediction
     year: '2022'
   p-w2d-QAAAAJ:u5HHmVD_uO8C:
@@ -38,7 +38,7 @@ papers:
     title: 'vContact: Private WiFi-based IoT contact tracing with virus lifespan'
     year: '2021'
   p-w2d-QAAAAJ:ufrVoPGSRksC:
-    citations: 98
+    citations: 104
     title: A multi-scale decomposition mlp-mixer for time series analysis
     year: '2024'
   p-w2d-QAAAAJ:zYLM7Y9cAGgC:
