@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-17'
 papers:
   p-w2d-QAAAAJ:2osOgNQ5qMEC:
     citations: 7
@@ -22,7 +22,7 @@ papers:
     title: 'TAMI: Taming Heterogeneity in Temporal Interactions for Temporal Graph Link Prediction'
     year: '2025'
   p-w2d-QAAAAJ:Y0pCki6q_DkC:
-    citations: 6
+    citations: 7
     title: 'MTM: A Multi-Scale Token Mixing Transformer for Irregular Multivariate Time Series Classification'
     year: '2025'
   p-w2d-QAAAAJ:d1gkVwhDpl0C:
@@ -34,14 +34,14 @@ papers:
     title: A data-driven spatial-temporal graph neural network for docked bike prediction
     year: '2022'
   p-w2d-QAAAAJ:u5HHmVD_uO8C:
-    citations: 38
+    citations: 39
     title: 'vContact: Private WiFi-based IoT contact tracing with virus lifespan'
     year: '2021'
   p-w2d-QAAAAJ:ufrVoPGSRksC:
-    citations: 104
+    citations: 105
     title: A multi-scale decomposition mlp-mixer for time series analysis
     year: '2024'
   p-w2d-QAAAAJ:zYLM7Y9cAGgC:
-    citations: 67
+    citations: 69
     title: A lightweight and accurate spatial-temporal transformer for traffic forecasting
     year: '2022'
