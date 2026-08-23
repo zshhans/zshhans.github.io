@@ -27,7 +27,7 @@ social: true # includes social icons at the bottom of the page
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I will be joining the Department of Computer Science at [Beijing-Normal Hong Kong Baptist University (BNBU)](https://fst.bnbu.edu.cn/en/) as an Assistant Professor starting from September 2026.
+I will be joining the Department of Computer Science at [Beijing Normal-Hong Kong Baptist University (BNBU)](https://fst.bnbu.edu.cn/) as an Assistant Professor starting from September 2026.
 
 I obtained my PhD degree in Computer Science and Engineering from the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk), under the supervision of [Prof. Shueng-Han Gary Chan](https://home.cse.ust.hk/~gchan/). I hold two Master's degrees: a Master of Science degree (in Information Technology) from HKUST, and a Master of Engineering degree (by research, in Geodesy and Surveying Engineering) from [Wuhan University (WHU)](https://www.whu.edu.cn) under the supervision of [Prof. Caijun Xu](https://www.sgg.whu.edu.cn/info/1424/2093.htm). I received my Bachelor's degree (in Geodesy and Geomatics Engineering) from WHU.
 
