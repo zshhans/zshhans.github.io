@@ -27,13 +27,13 @@ social: true # includes social icons at the bottom of the page
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-**Openings for Graduate Students**
-
-*I am recruiting highly motivated MPhil and PhD students. Prospective students with strong backgrounds in ML, AI, data mining, and interests in (spatio-)temporal/sequential/graph modeling are encouraged to contact me. Candidates with interdisciplinary research experience and solid domain knowledge—especially in areas such as healthcare, transportation, or earth science—are particularly welcome. Please include your CV and a brief statement of research interests in your email.*
-
 I obtained my PhD degree in Computer Science and Engineering from the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk), under the supervision of [Prof. Shueng-Han Gary Chan](https://home.cse.ust.hk/~gchan/). I hold two Master's degrees: a Master of Science degree (in Information Technology) from HKUST, and a Master of Engineering degree (by research, in Geodesy and Surveying Engineering) from [Wuhan University (WHU)](https://www.whu.edu.cn) under the supervision of [Prof. Caijun Xu](https://www.sgg.whu.edu.cn/info/1424/2093.htm). I received my Bachelor's degree (in Geodesy and Geomatics Engineering) from WHU.
 
 My research focus on the analytics and modeling of `sequential and temporal data` with `deep learning`, for the purpose of both `scientific research` (e.g. earth science and medicine) and `real-world applications` (e.g. healthcare and transportation).
+
+**Openings for MPhil Students**
+
+*I am recruiting highly motivated MPhil students. Prospective students with strong backgrounds in ML, AI, data mining, and interests in (spatio-)temporal/sequential/graph modeling are encouraged to contact me. Candidates with interdisciplinary research experience and solid domain knowledge—especially in areas such as healthcare, transportation, or earth science—are particularly welcome. Please include your CV and a brief statement of research interests in your email.*
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
