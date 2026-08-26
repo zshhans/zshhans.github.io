@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-21'
+  last_updated: '2026-08-26'
 papers:
   p-w2d-QAAAAJ:2osOgNQ5qMEC:
     citations: 7
@@ -42,6 +42,6 @@ papers:
     title: A multi-scale decomposition mlp-mixer for time series analysis
     year: '2024'
   p-w2d-QAAAAJ:zYLM7Y9cAGgC:
-    citations: 69
+    citations: 70
     title: A lightweight and accurate spatial-temporal transformer for traffic forecasting
     year: '2022'
