@@ -33,7 +33,7 @@ My research focus on the analytics and modeling of `sequential and temporal data
 
 **Openings for MPhil and Research Assistant**
 
-*I am recruiting **MPhil students** and **Research Assistants**. Highly motivated candidates with strong backgrounds in `ML`, `AI`, `data mining`, and interests in `(spatio-)temporal/sequential/graph` modeling are encouraged to contact me. Interdisciplinary research experience and solid domain knowledge—especially in areas such as healthcare, transportation, or earth science—are particularly welcome. **Please include your CV and a brief statement of research interests in your email.***
+*I am recruiting **PhD students** and **Research Assistants**. Highly motivated candidates with strong backgrounds in `ML`, `AI`, `data mining`, and interests in `(spatio-)temporal/sequential/graph` modeling are encouraged to contact me. Interdisciplinary research experience and solid domain knowledge—especially in areas such as healthcare, transportation, or earth science—are particularly welcome. **Please include your CV and a brief statement of research interests in your email.***
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
