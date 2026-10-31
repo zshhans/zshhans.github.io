@@ -31,7 +31,7 @@ I obtained my PhD degree in Computer Science and Engineering from the [Hong Kong
 
 My research focus on the analytics and modeling of `sequential and temporal data` with `deep learning`, for the purpose of both `scientific research` (e.g. earth science and medicine) and `real-world applications` (e.g. healthcare and transportation).
 
-**Openings for MPhil and Research Assistant**
+**Openings for PhD and Research Assistant**
 
 *I am recruiting **PhD students** and **Research Assistants**. Highly motivated candidates with strong backgrounds in `ML`, `AI`, `data mining`, and interests in `(spatio-)temporal/sequential/graph` modeling are encouraged to contact me. Interdisciplinary research experience and solid domain knowledge—especially in areas such as healthcare, transportation, or earth science—are particularly welcome. **Please include your CV and a brief statement of research interests in your email.***
 
